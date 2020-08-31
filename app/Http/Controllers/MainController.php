@@ -2,9 +2,9 @@
 
 namespace App\Http\Controllers;
 
-use App\Services\CollectionFields\CollectionFields;
-use App\Services\CollectionFields\Fields\EmailField;
-use App\Services\CollectionFields\Fields\TextField;
+use CollectionFields\CollectionFields;
+use CollectionFields\Fields\EmailField;
+use CollectionFields\Fields\TextField;
 
 class MainController extends Controller {
 

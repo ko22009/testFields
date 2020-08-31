@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Services\CollectionFields\Fields;
+namespace CollectionFields\Fields;
 
 class EmailField extends BaseField {
 

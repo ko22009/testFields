@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Services\CollectionFields;
+namespace CollectionFields;
 
-use App\Services\CollectionFields\Fields\Field;
+use CollectionFields\Fields\Field;
 
 class CollectionFields {
 

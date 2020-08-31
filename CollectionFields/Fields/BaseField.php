@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Services\CollectionFields\Fields;
+namespace CollectionFields\Fields;
 
-use App\Services\CollectionFields\CollectionFields;
+use CollectionFields\CollectionFields;
 use Illuminate\Contracts\Support\Jsonable;
 
 abstract class BaseField implements Field, Jsonable {

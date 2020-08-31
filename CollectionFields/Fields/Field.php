@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Services\CollectionFields\Fields;
+namespace CollectionFields\Fields;
 
 interface Field {
     public function setName(string $name): Field;
